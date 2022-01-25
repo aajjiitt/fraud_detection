@@ -15,4 +15,4 @@ def model3():
 
 print("Model 2 is performing best")    
 
-print("Model 2 is best but model 3 is good in accuracy and speed.")
+print("Model 2 is best but model 3 is good in only speed")
